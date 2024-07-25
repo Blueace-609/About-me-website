@@ -15,5 +15,5 @@ st.subheader("Living in: Saratoga, CA")
 st.subheader("Status: Tired")
 if st.checkbox("Favorite Game"):
     st.write("Splatoon 3")
-    st.image("images/download.jpg")
+    st.image("about_me/images/download.jpg")
 st.checkbox("Favorite color")
