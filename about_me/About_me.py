@@ -8,7 +8,7 @@ st.set_page_config(
 st.sidebar.success("There's more to me??")
 
 st.title("Hi! I'm Chris")
-st.image("images/FullSizeRender.jpg")
+st.image("about_me/images/FullSizeRender.jpg")
 st.caption("I'm on the left, the one on the right is my brother.")
 st.subheader("Age: 15")
 st.subheader("Living in: Saratoga, CA")
